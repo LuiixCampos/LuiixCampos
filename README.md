@@ -6,7 +6,6 @@
 
 <a href="https://www.linkedin.com/in/luiz-campos-freire"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:henriquecampoos78@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=LuiixCampos&label=visitas&color=36BCF7&style=for-the-badge"/>
 
 </div>
 
@@ -46,7 +45,7 @@ e, com a aprovação do DBA, aplica o índice e mede o ganho (até **97%** no la
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=LuiixCampos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiixCampos&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"/>
+<img height="165" src="https://streak-stats.demolab.com?user=LuiixCampos&theme=tokyonight&hide_border=true&locale=pt_BR"/>
 </div>
 
 ### 😂 Piada do dia
