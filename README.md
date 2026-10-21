@@ -37,15 +37,16 @@
 
 ### 🚀 Projeto em destaque
 
-**monitor-db-ia**: detecta queries lentas no PostgreSQL e no Oracle, diagnostica com IA local, abre chamado no Jira
+**[monitor-db-ia](https://github.com/LuiixCampos/monitor-db-ia)**: detecta queries lentas no PostgreSQL e no Oracle, diagnostica com IA local, abre chamado no Jira
 e, com a aprovação do DBA, aplica o índice e mede o ganho (até **97%** no lab). Previsão de degradação no Databricks.
-<sub>Público em breve.</sub>
 
 ### 📈 GitHub Stats
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=LuiixCampos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br"/>
-<img height="165" src="https://streak-stats.demolab.com?user=LuiixCampos&theme=tokyonight&hide_border=true&locale=pt_BR"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiixCampos&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"/>
+<br/>
+<img src="https://streak-stats.demolab.com?user=LuiixCampos&theme=tokyonight&hide_border=true&locale=pt_BR"/>
 </div>
 
 ### 😂 Piada do dia
